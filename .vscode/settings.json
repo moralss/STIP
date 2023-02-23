@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/8a2f4883-e598-4ca7-acd3-57909df78d4d/AppServices/subscriptions/8a2f4883-e598-4ca7-acd3-57909df78d4d/resourceGroups/I-OGMS/providers/Microsoft.Web/sites/stiapi",
+  "appService.deploySubpath": "bin\\Publish"
+}

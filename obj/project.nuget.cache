@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6WLC2SZ7E1+Q7o5E5i3+zYpdMrSWOfpzjhacTnMHmFQSIryfc7gxVkROFaHdcoayrs2qgN/DLc0SkWuaq/9Bgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moral\\source\\Workspaces\\NRF-STI\\WEB\\WEB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moral\\.nuget\\packages\\microsoft.typescript.compiler\\3.1.5\\microsoft.typescript.compiler.3.1.5.nupkg.sha512",
+    "C:\\Users\\Moral\\.nuget\\packages\\microsoft.typescript.msbuild\\4.9.4\\microsoft.typescript.msbuild.4.9.4.nupkg.sha512"
+  ],
+  "logs": []
+}

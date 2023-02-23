@@ -1,0 +1,65 @@
+.MuiList-root {
+  background-color: #578ccf !important;
+}
+
+.MuiBox-root {
+  /* background-color: red !important; */
+}
+
+.MuiPaper-root {
+  /* background-color: red !important; */
+}
+
+.css-1c7e7jm-MuiButtonBase-root-MuiMenuItem-root {
+  /* background-color:red !important; */
+}
+
+.css-hm2aps-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+  padding: 0rem !important;
+  background-color: #578ccf !important;
+}
+
+.css-1bl979f-MuiTypography-root {
+  color: black !important;
+  font-weight: 100 !important;
+}
+
+.MuiTypography-root .MuiTypography-button .css-1bl979f-MuiTypography-root {
+  /* color:white !important; */
+}
+
+.MuiMenuItem-root
+  .MuiMenuItem-gutters
+  .MuiButtonBase-root
+  .css-1c7e7jm-MuiButtonBase-root-MuiMenuItem-root {
+  color: red !important;
+  -webkit-tap-highlight-color: red !important;
+}
+
+.css-7txj2x {
+  width: 8rem !important;
+}
+
+.css-ju6qd6-MuiDivider-root {
+  background-color: #578ccf !important;
+}
+
+.MuiDivider-root {
+  background-color: #578ccf !important;
+}
+
+.css-lvl4a5-MuiDrawer-docked .MuiDrawer-paper {
+  background: #578ccf !important;
+}
+
+.css-ib2nb1-MuiButtonBase-root-MuiButton-root {
+  font-family: sans-serif !important;
+}
+
+.css-ib2nb1-MuiButtonBase-root-MuiButton-root {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+}
+
+/* .navbar {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+} */
